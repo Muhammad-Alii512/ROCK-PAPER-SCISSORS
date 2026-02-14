@@ -44,7 +44,7 @@ This approach makes the code easier to understand, debug, and extend.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors-js.git
+   git clone https://github.com/Muhammad-Alii512/rock-paper-scissors-js.git
 
    ```
 
